@@ -1,1 +1,0 @@
-# Big-fm-sql-Project-challenge
